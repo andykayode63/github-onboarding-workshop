@@ -83,8 +83,8 @@
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
 -Bootcamp live session and recording
-Microsoft Learn
+- Microsoft Learn
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Omoboye Osinowo · BoyeAdeleke
