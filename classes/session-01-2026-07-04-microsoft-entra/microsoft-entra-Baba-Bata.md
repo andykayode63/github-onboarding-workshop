@@ -40,7 +40,7 @@
 
 * **Testing and Validation: Learned how to test, validate, and troubleshoot authenticated API plugin integrations within Microsoft 365 Copilot to ensure successful connectivity and expected functionality.**
 
-\---
+
 
 ## Lab / Hands-On Work
 
@@ -60,17 +60,9 @@
 
 
 
-* 
-
-
-
 ### Challenges I faced.
 
-
-
 Access to Microsoft Entra
-
-
 
 ## My Takeaways
 
