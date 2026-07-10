@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Elu Uchenna Emmanuel
 
 ---
 
@@ -27,7 +20,10 @@ I enabled authentication policy needed for the platform (Microsoft authenticator
 I disabled authenticator policy not needed (SMS, Call, Fido etc).
 Modified the lockout threshold, duration and created custom banned password.
 I created a CA policy to require MFA, assigned it to all users, target all resources and from any location.
+<img width="1587" height="678" alt="Screenshot 2026-07-10 113548" src="https://github.com/user-attachments/assets/315a10c2-5fc5-4f78-94d2-c6babd8a66d8" />
+
 I created a CA policy to blocked MS admin portal, included all users and excluded the admin and break glass account, then I targeted the MS admin portals and configured the grant to block access and turned the policy to On.
+<img width="719" height="642" alt="Screenshot 2026-07-10 112912" src="https://github.com/user-attachments/assets/89bf9999-f0a4-4913-bfe5-e50bc281478f" />
 
 
 ### What happened / Result
@@ -37,13 +33,12 @@ User were prevented from accessing MS admin portal except for the Admin and brea
 ### Challenges I faced
 The configs were successful. 
 Could not practice PIM due to license limitation
-
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-Ability to confidently establish a CA without hassle
+Ability to confidently establish a CA policy without hassle
 
 ---
 
@@ -52,16 +47,14 @@ Ability to confidently establish a CA without hassle
 <!-- Anything you want to follow up on or ask the mentor -->
 
 -Need guide to create API plugins for agents
--
-
 ---
 
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
-
+-https://learn.microsoft.com/en-us/training/paths/secure-access-resources-entra/
+-https://www.youtube.com/watch?v=R7zxI-k3NoQ&t=139s
 ---
 
 *Submitted by: Elu Uchenna Emmanuel · eluemma*
