@@ -27,6 +27,7 @@
 ### What I did
 
 - I practiced the PIM configuration steps in Microsoft Entra ID. I reviewed how privileged roles are activated, approved, and monitored.
+  
 - I attempted to activate the Microsoft 365 Agents Toolkit extension and connect a secured API plugin for a declarative agent.
 
 ### What happened / Result
@@ -39,22 +40,31 @@ The message indicated that my account was not enrolled in the Microsoft 365 Copi
 
 ### Challenges I faced
 
-- Initially, I was unable to distinguish between Eligible and Active role assignments
-- Unable to complete the API authentication practical because my Microsoft 365 account was not enabled for Microsoft 365 Copilot access
+- Initially, I was unable to distinguish between Eligible and Active role assignments.
+  
+- Unable to complete the API authentication practical because my Microsoft 365 account was not enabled for Microsoft 365 Copilot access.
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-- Privileged access should be temporary and granted only when needed
-- MFA is essential for protecting privileged accounts and where possible, for all user accounts
-- The Principle of Least Privilege reduces the impact of compromised accounts
-- Zero Trust requires continuous verification of users and devices
-- Regular access reviews, monitoring, encryption, backups, and patching are critical security practices
-- AI and declarative agents must use secured APIs and proper authentication to prevent unauthorized access to organizational data
-- User awareness remains an important defense against phishing and social engineering attacks
+- Privileged access should be temporary and granted only when needed.
+  
+- MFA is essential for protecting privileged accounts and where possible, for all user accounts.
+  
+- The Principle of Least Privilege reduces the impact of compromised accounts.
+  
+- Zero Trust requires continuous verification of users and devices.
+  
+- Regular access reviews, monitoring, encryption, backups, and patching are critical security practices.
+  
+- AI and declarative agents must use secured APIs and proper authentication to prevent unauthorized access to organizational data.
+  
+- User awareness remains an important defense against phishing and social engineering attacks.
+  
 - This session improved my understanding of privileged access management and an understandingsecured API authentication for declarative agents. The practical PIM exercises showed how organizations can reduce risk through JIT access, MFA, approval workflows, and continuous monitoring. Although I could not complete the API authentication hands-on exercise because my account lacked Microsoft 365 Copilot access, I gained a fair understanding of the required prerequisites and authentication workflow. Overall, the session strengthened my knowledge of identity protection, cloud security best practices, and secure access management in modern enterprise environments.
+  
 - The biggest lesson I gained from this session is that cybersecurity is a continuous process. Organizations must regularly review their security controls, educate users, monitor systems, and adapt to emerging threats to maintain a strong security posture.
 
 ---
@@ -64,7 +74,6 @@ The message indicated that my account was not enrolled in the Microsoft 365 Copi
 <!-- Anything you want to follow up on or ask the mentor -->
 
 - How does Microsoft Entra PIM integrate with third-party identity providers and non-Microsoft cloud platforms?
-- What are the recommended best practices for implementing PIM in large organizations with thousands of users?
 
 ---
 
